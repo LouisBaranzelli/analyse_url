@@ -1,0 +1,13 @@
+loguru
+beautifulsoup4
+requests
+spellchecker
+textdistance
+pandas
+tqdm
+numpy
+torch
+matplotlib
+seaborn
+scikit-learn
+xgboost
